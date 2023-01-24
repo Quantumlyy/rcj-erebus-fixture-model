@@ -4,6 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+tensorflow-macos = "*"
+matplotlib = "*"
+jupyter = "*"
+ipykernel = "*"
+
+pillow = "*"
+
+pydot = "*"
+pydotplus = "*"
+graphviz = "*"
 
 [dev-packages]
 
