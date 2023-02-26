@@ -14,6 +14,7 @@ pillow = "*"
 pydot = "*"
 pydotplus = "*"
 graphviz = "*"
+keras-visualizer = "*"
 
 [dev-packages]
 
