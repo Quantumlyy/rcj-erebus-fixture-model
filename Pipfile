@@ -5,12 +5,12 @@ name = "pypi"
 
 [packages]
 tensorflow-macos = "*"
+keras-tuner = "*"
+pillow = "*"
+
 matplotlib = "*"
 jupyter = "*"
 ipykernel = "*"
-
-pillow = "*"
-
 pydot = "*"
 pydotplus = "*"
 graphviz = "*"
